@@ -65,5 +65,10 @@ body {
   transform: translateX(-50%);
   max-width: 50%;
   width: 100%; }
+  .footer .source a {
+    color: white;
+    text-decoration: none; }
+    .footer .source a:hover {
+      text-decoration: underline; }
 
 /*# sourceMappingURL=main.css.map */

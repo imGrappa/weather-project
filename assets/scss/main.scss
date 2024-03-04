@@ -90,4 +90,13 @@ body {
     transform: translateX(-50%);
     max-width: 50%;
     width: 100%;
+    .source {
+        a {
+            color:$white;
+            text-decoration: none;
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+    }
 }
